@@ -4,5 +4,5 @@ numpy
 pykalman
 yfinance
 plotly
-
 ccxt
+
